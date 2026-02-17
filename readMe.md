@@ -1,5 +1,4 @@
-# Ahjoor Frontend
-
+# Ahjoor Frontend 
 
 **Ahjoor** is a trustless community savings platform built with transparency in mind. This repository contains the frontend application, which provides real-time dashboards for savings groups to manage their circles, track contributions, and monitor payout status. It offers a user-friendly interface to interact with the Ahjoor platform, visualize round milestones, and keep every participant informed.
 
@@ -110,6 +109,9 @@ We use __Conventional Commits__ to standardize commit messages.
 
 Have questions or feedback?
 
-*  [Telegram Group Chat](https://t.me/ahjoor)
+*  [Telegram: __Ahjoor Telegram Group__](https://t.me/ahjoor)
+
 
 ---
+
+**Built with ❤️ to help communities save money together through Ahjoor Savings**
