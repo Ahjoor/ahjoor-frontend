@@ -1,6 +1,5 @@
-# Ahjoor Frontend Dashboard
+# Ahjoor Frontend
 
-[![CI](https://github.com/Ahjoor/ahjoor-frontend/actions/workflows/test.yml/badge.svg)](https://github.com/Ahjoor/ahjoor-frontend/actions)
 
 **Ahjoor** is a trustless community savings platform built with transparency in mind. This repository contains the frontend application, which provides real-time dashboards for savings groups to manage their circles, track contributions, and monitor payout status. It offers a user-friendly interface to interact with the Ahjoor platform, visualize round milestones, and keep every participant informed.
 
