@@ -80,7 +80,7 @@ We welcome contributors of all experience levels!
 * Fork the repository
 * Create a feature branch
 * Open a pull request
-
+* - [Figma Design](https://www.figma.com/proto/Iy3eNcv9g5xci8K3zHwQw4/Ahjoor-Design?node-id=814-45&t=TSxCDBQxRkJTTfzC-1)
 ### 🌳 Branching Strategy
 
 * `main` → stable release branch
