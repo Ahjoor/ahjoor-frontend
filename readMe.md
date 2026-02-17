@@ -113,5 +113,3 @@ Have questions or feedback?
 
 
 ---
-
-**Built with ❤️ to help communities save money together through Ahjoor Savings**
