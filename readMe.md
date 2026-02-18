@@ -103,6 +103,22 @@ We use __Conventional Commits__ to standardize commit messages.
 * `refactor`: code changes without feature/fix
 * `chore`: maintenance tasks
 
+## 🔗 Resources
+
+- [Stellar Documentation](https://developers.stellar.org/)
+- [Soroban Smart Contracts](https://soroban.stellar.org/)
+- [Stellar CLI Reference](https://developers.stellar.org/docs/tools/developer-tools)
+- [Next.js App Router](https://nextjs.org/docs/app)
+
+
+
+## 🛡️ License
+
+This project is licensed under the **MIT License**.
+
+---
+
+**Built with ❤️ to help communities save money together through Ahjoor Savings**
 ---
 
 ##  Contact Us
